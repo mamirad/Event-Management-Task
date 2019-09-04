@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  event_name: MyString
+  event_description: MyText
+  status: MyString
+  event_start_date: 2019-09-04
+  user: one
+
+two:
+  event_name: MyString
+  event_description: MyText
+  status: MyString
+  event_start_date: 2019-09-04
+  user: two
